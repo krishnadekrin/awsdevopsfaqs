@@ -15,7 +15,16 @@ What is deployment in kubernetes
 What is statefulset
 Write a command to scale down a pod
 if a Pod goes into CrashLoopBackOff how to troubleshoot
+Intellect Design Hyd
+-------------------------
+How to create a K8 Cluster
+What is a deployment in k8 and steps
+What does ImagePullBackOff mean?
+What is a DaemonSet in Kubernetes?
 
+Terraform
+----------
+Terraform script to create 3 S3 buckets with unique names in AWS
 
 
 
